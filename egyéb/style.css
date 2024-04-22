@@ -1,0 +1,24 @@
+h2 {
+    background-color: brown;
+}
+
+.line {
+    height: 100px;
+    width: 500px;
+    display: inline-block;
+}
+
+.flag{
+    border: 3px solid black;
+    width: fit-content;
+    margin: 100px;
+    
+}
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+

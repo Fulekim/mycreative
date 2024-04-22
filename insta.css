@@ -1,0 +1,76 @@
+.div1{
+    display: inline-block;
+width: 320px;
+height: 500px;
+padding: 20px;
+text-align: center;
+font-family: "Poppins", sans-serif;
+border: solid 2px black;
+margin-top: 5cm;
+margin-left: 9cm;
+border-radius: 5px;
+}
+.div2{
+    margin-left: 7cm;
+    display: inline-block;
+    width: 320px;
+    height: 500px;
+    padding: 20px;
+    text-align: center;
+    border: solid 2px black;
+    font-family: "Poppins", sans-serif;
+    margin-top: 7cm;
+    margin-left: 1cm;
+    border-radius: 5px;
+}
+.div3{
+    margin-left: 2cm;
+    display: inline-block;
+    width: 320px;
+    height: 500px;
+    padding: 20px;
+    text-align: center;
+    border: solid 2px black;
+    font-family:"Poppins", sans-serif ;
+    margin-top: 7cm;
+    border-radius: 5px;
+    margin-left: 1cm;
+    
+}
+
+div:hover{
+    background-color: rgb(224,52,108);
+    color: white;
+    border-color: rgb(224,52,108);
+    transition-duration: 300ms;   
+}
+
+.button:hover{
+    background-color: white;
+    color: rgb(224,52,108);
+    transition-duration: 300ms;
+    border-color: white;
+}
+
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.button {
+    background-color: black;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+    height: 1.5cm;
+    width: 8cm;
+    border-radius: 1cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    vertical-align: middle;
+    text-align: center;
+ 
+}
